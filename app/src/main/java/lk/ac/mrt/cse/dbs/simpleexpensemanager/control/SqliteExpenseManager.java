@@ -23,7 +23,7 @@ public class SqliteExpenseManager extends SQLiteOpenHelper{
     public static final String COLUMN_AMOUNT = "amount";
     public static final String COLUMN_DATE = "date";
 
-    private static final String DATABASE_NAME = "expense_manager.db";
+    private static final String DATABASE_NAME = "130617c.db";
     private static final int DATABASE_VERSION = 1;
 
     // Database creation sql statement
